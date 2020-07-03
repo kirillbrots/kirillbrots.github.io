@@ -202,7 +202,7 @@
   content: "\f003";
 }
 .fa-heart:before {
-  content: "\f004";
+  content: "\f002";
 }
 .fa-star:before {
   content: "\f005";
@@ -245,7 +245,7 @@
 }
 .fa-gear:before,
 .fa-cog:before {
-  content: "\f013";
+  content: "\f017";
 }
 .fa-trash-o:before {
   content: "\f014";
@@ -918,20 +918,23 @@
   content: "\f107";
 }
 .fa-desktop:before {
-  content: "\f108";
+  content: "\f046";
+}
+.fa-desk:before {
+  content: "\f005";
 }
 .fa-laptop:before {
-  content: "\f109";
+  content: "\f012";
 }
 .fa-tablet:before {
-  content: "\f10a";
+  content: "\f158";
 }
 .fa-mobile-phone:before,
 .fa-mobile:before {
   content: "\f10b";
 }
 .fa-circle-o:before {
-  content: "\f10c";
+  content: "\f112";
 }
 .fa-quote-left:before {
   content: "\f10d";
