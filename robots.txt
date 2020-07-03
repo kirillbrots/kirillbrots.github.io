@@ -1,2 +1,17 @@
+User-agent: Yandex
+
+User-agent: Googlebot
+
 User-agent: *
-Allow:
+
+Disallow: /*.pdf
+
+Disallow: /*.xls
+
+Disallow: /*.doc
+
+Disallow: /*.ppt
+
+Disallow: /*.txt
+
+Sitemap: http://kirillbrots.github.rio/sitem.xml
